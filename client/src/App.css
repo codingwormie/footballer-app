@@ -1,0 +1,9 @@
+.navbar-item img {
+  max-height: 3.3em;
+}
+
+.musician-card {
+  width: 30%;
+  float: left;
+  margin-right: 1em;
+}
